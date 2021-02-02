@@ -1,1 +1,18 @@
-.titre{ font-size: 2rem;}
+.titre {
+  font-size: 2rem;
+}
+.degrader {
+  background: #ff0000;
+  background: -moz-linear-gradient(left, #ff0000 0%, #ff8e2b 100%);
+  background: -webkit-linear-gradient(left, #ff0000 0%, #ff8e2b 100%);
+  background: linear-gradient(to right, #ff0000 0%, #ff8e2b 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#ff8e2b',GradientType=1 );
+}
+.Business {
+  color: #62bfe6;
+}
+.telephone{
+    color: #62bfe6;
+    
+}.textnoir{color: black; }
+.couleur {background-color: #62bfe6;}
