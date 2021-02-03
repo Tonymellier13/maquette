@@ -16,3 +16,20 @@
     
 }.textnoir{color: black; }
 .couleur {background-color: #62bfe6;}
+.fa-comments  {
+  font-size: 4rem;background-color: #62bfe6;
+}
+.fa-users{
+  font-size: 4rem;background-color: #62bfe6;
+}
+.fa-calendar{
+  font-size: 4rem;background-color: #62bfe6;
+}
+.fa-thumbs-up{
+  font-size: 4rem;background-color: #62bfe6;
+}
+.back{
+  background-color: #62bfe6;
+}
+
+.fa-comment{font-size: 3rem;}
