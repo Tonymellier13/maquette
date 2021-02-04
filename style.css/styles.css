@@ -11,25 +11,37 @@
 .Business {
   color: #62bfe6;
 }
-.telephone{
-    color: #62bfe6;
-    
-}.textnoir{color: black; }
-.couleur {background-color: #62bfe6;}
-.fa-comments  {
-  font-size: 4rem;background-color: #62bfe6;
+.telephone {
+  color: #62bfe6;
 }
-.fa-users{
-  font-size: 4rem;background-color: #62bfe6;
+.textnoir {
+  color: black;
 }
-.fa-calendar{
-  font-size: 4rem;background-color: #62bfe6;
-}
-.fa-thumbs-up{
-  font-size: 4rem;background-color: #62bfe6;
-}
-.back{
+.couleur {
   background-color: #62bfe6;
 }
 
-.fa-comment{font-size: 3rem;}
+.back {
+  background-color: #62bfe6;
+}
+
+
+.slide-height .carousel-item {
+  height: 500px;
+}
+.couleur p {
+  min-height: 250px;
+}
+.bordure-service {
+  border-bottom: 5px solid rgb(0, 162, 255);
+}
+.borderservice {
+  border-bottom: 2px solid rgb(211, 211, 211);
+  
+}
+.couleur-service {
+  color: #62bfe6;
+}
+.img-service {
+  margin-left: 300px;
+}
