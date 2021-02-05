@@ -24,7 +24,9 @@
 .back {
   background-color: #62bfe6;
 }
-
+.fa-comment {
+  font-size: 2rem;
+}
 
 .slide-height .carousel-item {
   height: 500px;
@@ -32,16 +34,38 @@
 .couleur p {
   min-height: 250px;
 }
-.bordure-service {
-  border-bottom: 5px solid rgb(0, 162, 255);
-}
+
+
 .borderservice {
   border-bottom: 2px solid rgb(211, 211, 211);
-  
 }
 .couleur-service {
   color: #62bfe6;
 }
+
+.icons-footer {
+  color: #62bfe6;
+  background-color: rgb(97, 97, 97);
+  font-size: 2rem;
+}
+.fa-star {
+  color: yellow;
+}
+.fa-angle-double-right {
+  color: #62bfe6;
+  font-size: 1.5rem;
+}
+.icons-midlle {
+  color: #fdfdfd;
+  font-size: 3rem;
+  background-color: #62bfe6;
+}
 .img-service {
-  margin-left: 300px;
+  width: 200px;
+}
+/* XS */
+@media (max-width: 575px) {
+  .couleur p {
+    min-height: 150px;
+  }
 }
